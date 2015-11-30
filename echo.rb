@@ -7,7 +7,6 @@
 puts '################################################'
 puts 'Au plaisir de travailler à nouveau ensemble !'
 puts 'mon courriel : ronan.mounes@gmail.com'
-puts '---'
 puts ''
 puts '                       ______'
 puts '                     <((((((\\\\\\'
